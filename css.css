@@ -1,0 +1,124 @@
+
+
+/*Mohamed Elayat et Guilhem Robert-Apesteguy*/
+
+
+html	{
+	
+	height: 100%;
+	width: 100%;
+	background-image: url(images/background.jpg);
+	background-color: #cb7e3a;
+	background-position: right;
+	background-size:  85% 100%;
+	background-repeat: no-repeat; 
+	background-attachment: fixed;
+	
+}
+
+
+body	{
+	
+	width: 60%;
+	background-color: white;
+	margin: 20px auto;
+	color: black;
+	padding-bottom: 20px;
+	border-style: ridge;
+	border-radius: 30px;
+	border-color:#a07251;
+	background-image: url(images/chef.png);
+	background-repeat: no-repeat;
+	background-position: 99% 5px;
+	background-origin: content-box;
+	font-family: "Palatino Linotype", Arial, Helvetica, sans-serif;
+		
+} 
+
+
+#side	{
+	
+	position: absolute;
+	left: 8px;
+	top: 0;
+	width: 14%;
+	word-wrap: break-word;
+	position: fixed;
+	
+}
+
+
+#all	{
+	
+	padding: 0px 40px;
+	
+	
+}
+
+#about p	{
+	
+	text-indent: 25px;
+	
+	
+}
+
+
+main	{
+	
+	width:80%;
+	
+}
+
+
+
+main img {
+	
+	width: 100%;
+	
+}
+
+
+a		{
+	
+	color: black;
+	
+}
+
+
+a:hover{
+		
+	color: green;
+	
+}
+
+
+ul		{
+	
+	list-style-type: circle;
+	
+}
+
+header h1		{
+	
+	font-size: 2.1em;
+	font-style: italic;
+	
+}
+
+footer	{
+	
+	font-size: small;
+	text-align: center;
+	font-style: italic;
+	color: gray;
+	
+}
+
+.fondateur{
+	
+	height: 250px;
+	width: 250px;
+		
+}
+
+
